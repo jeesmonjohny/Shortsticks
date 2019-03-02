@@ -7,7 +7,7 @@ step3: in the java file import below code<br />
       import exam.shortstickAPI;
 step4: call getArraysticks() method for getting both rack sticks<br />
 
-    	firstrack=getArraysticks(count1,firstrack);
+	firstrack=getArraysticks(count1,firstrack);
 	secrack=getArraysticks(count2,secrack);
 where 1st and 2nd racks are 'firstrack'&'secrack' arrays respectively,count1 and count2 two racks number of sticks<br />
 step5: calling shortstickset() method for getting and printing output sets<br />
