@@ -1,5 +1,11 @@
 # Shortsticks API
 
+heroku URL for webapplication with API:
+https://sampleappweb.herokuapp.com/
+
+
+steps while using API:
+-----------------------
 step1: create new java project in eclipse <br />
 step2: download shortstickAPI.jar and import in library folder of creating project<br />
 step3: in the java file import below code<br />
